@@ -1,0 +1,40 @@
+body {
+	 background:linear-gradient(rgba(0,0,25,0.5),rgba(0,0,25,0.5));
+	 background-image:url('https://st4.depositphotos.com/4590583/i/600/depositphotos_278237456-stock-photo-fresh-vegetables-fruits-black-background.jpg');
+	 background-size:100% 100%;
+	 background-position:center;
+	 background-repeat:no-repeat;
+	 background-attachment:fixed;
+	
+}
+
+.login-box {
+	max-width:700px;
+	max-height:500px;
+	float:none;
+	margin-top:100px;
+	margin-left:150px;
+}
+
+.login-left {
+	background:rgba(360,360,360,0.7);
+	padding: 30px;
+	border:2px solid black;
+	
+}
+.login-right {
+	background:rgba(360,360,360,0.7);
+	padding:30px;
+	border:2px solid black;
+	
+}
+
+.form-control {
+	background-color:transparent !important;
+	border: 2px solid black !important;
+}
+
+
+
+	
+	
